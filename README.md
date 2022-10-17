@@ -2,10 +2,10 @@
 
 A simple ordering practice project. Section 11 of the Crash Course: React - The Complete Guide from udemy
 
-Folder Structure
-**src** -> contains the main source file
-  **/components** -> contains all the components
-  **/./UI**       -> user interface related components
-  **/./Layout**   -> layoutt related components
-  **/./Meals**    -> item component
-  **/./Cart**     -> cart component
+Folder Structure <br/>
+**src** -> contains the main source file <br/>
+  **/components** -> contains all the components <br/>
+  **/./UI**       -> user interface related components <br/>
+  **/./Layout**   -> layoutt related components <br/>
+  **/./Meals**    -> item component <br/>
+  **/./Cart**     -> cart component <br/>
